@@ -20,4 +20,6 @@
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tnfy10&count_private=true&layout=compact&theme=radical)
   <br /><br />
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tnfy10&count_private=true&show_icons=true&theme=radical)
+  <br /><br />
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tnfy10)](https://solved.ac/tnfy10)
 </div>
